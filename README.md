@@ -7,7 +7,7 @@
 
 I'm a Software Engineer specializing in Elixir. I also have experience with the technologies listed in the toolbox below.
 
-I enjoy creating things that live on the internet , whether that be websites, applications, or anything in between. My goal is to always build products that are beautiful, put the user first and provide value. 
+I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that are beautiful, put the user first and provide value. 
 
 ###
 
